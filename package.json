@@ -1,21 +1,20 @@
 {
-    "name": "node-inspector-proxy",
-    "version": "1.1.0",
-    "author": "muzuiget",
-    "license": "MIT",
-    "keywords": [
-        "node",
-        "inspector"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/muzuiget/node-inspector-proxy.git"
-    },
-    "scripts": {
-        "start": "node index.js"
-    },
-    "type": "module",
-    "devDependencies": {
-        "ws": "8.11.0"
-    }
+  "name": "node-inspector-proxy",
+  "version": "1.1.0",
+  "author": "muzuiget",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "inspector"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muzuiget/node-inspector-proxy.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "ws": "^7.2.1"
+  }
 }
